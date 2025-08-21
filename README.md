@@ -72,6 +72,6 @@ Edite a seção `<nav>` no arquivo `index.html`:
 
 MIT License - Livre para uso pessoal e comercial.
 
-## Autor
+## Autor | Ingridi Portela
 
 Desenvolvido para demonstração de habilidades em desenvolvimento front-end.
