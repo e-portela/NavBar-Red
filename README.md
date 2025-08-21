@@ -15,7 +15,8 @@ Componente de navegação responsivo com animações suaves e design contemporâ
 ## Estrutura dos Arquivos
 
 
-Navbar-Red/
+Navbar-Red
+
 ├── index.html      
 ├── styles.css   
 ├── script.js     
@@ -31,14 +32,13 @@ Navbar-Red/
 ## Personalização
 
 ### Cores Principais
-\`\`\`css
+
 :root {
   --primary-color: #e91e63;
   --secondary-color: #9c27b0;
   --text-color: #333;
   --bg-color: rgba(255, 255, 255, 0.95);
 }
-\`\`\`
 
 ### Menu Items
 Edite a seção `<nav>` no arquivo `index.html`:
