@@ -52,7 +52,7 @@ Edite a seção `<nav>` no arquivo `index.html`:
   <li><a href="#Contratar">Contratar</a></li>
 
   </ul>
-\`\`\`
+
 
 ## Compatibilidade
 
