@@ -1,4 +1,4 @@
-# Navbar Moderno
+# Navbar Responsivo
 
 Componente de navegação responsivo com animações suaves e design contemporâneo.
 
@@ -14,13 +14,13 @@ Componente de navegação responsivo com animações suaves e design contemporâ
 
 ## Estrutura dos Arquivos
 
-\`\`\`
+
 Navbar-Red/
-├── index.html      # Estrutura HTML
-├── styles.css       # Estilos e animações
-├── script.js       # Funcionalidades JavaScript
-└── README.md       # Documentação
-\`\`\`
+├── index.html      
+├── styles.css   
+├── script.js     
+└── README.md     
+
 
 ## Como Usar
 
