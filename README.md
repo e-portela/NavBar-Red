@@ -1,6 +1,6 @@
 # Navbar Responsivo
 
-Componente de navegação responsivo com animações suaves e design contemporâneo.
+Componente de navegação responsivo com animações suaves.
 
 ![Navbar Preview](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-MI3Kyk8Sog69VYEDOedNY0IFnSuisH.png)
 
